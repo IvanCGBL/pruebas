@@ -1,2 +1,2 @@
 # pruebas
-Repositorio de prueba con datos inventados y generados aleoriamente.
+Repositorio de prueba con datos inventados y generados aleatoriamente.
